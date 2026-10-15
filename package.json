@@ -1,0 +1,10 @@
+{
+  "name": "datadeck-dashboard",
+  "version": "1.0.0",
+  "description": "Responsive dashboard with filterable data tables, search and live status pills (plain HTML, CSS and JavaScript).",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
